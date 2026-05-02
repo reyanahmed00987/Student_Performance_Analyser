@@ -1,6 +1,7 @@
 # Student_Performance_Analyser
 
 📊 Data Analytics Internship
+
 This repository showcases the data-driven projects and analytical tasks developed during my Data Analyst Internship. The goal is to turn raw, complex datasets into clear, actionable stories. 🚀
 
 📂 The Analytical Deep Dive
